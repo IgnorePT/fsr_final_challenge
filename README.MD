@@ -1,7 +1,7 @@
 # React Challenge
 
 O objetivo de este exercicio é a criação de uma aplicação completa em react.
-Podes criar a tua aplicação com recurso ao `CRA` ou `VITE` fica a tua escolha.
+Podes criar a tua aplicação com recurso ao `VITE` fica a tua escolha.
 
 ## Requisitos da aplicação
 
